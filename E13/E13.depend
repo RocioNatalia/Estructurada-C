@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589091181 source:/home/rocio/Proyectos/Programacion-Estructurada/E13/main.c
+	<stdio.h>
+	<stdlib.h>
+

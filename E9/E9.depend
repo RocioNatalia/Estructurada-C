@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589129852 source:/home/rocio/Proyectos/Programacion-Estructurada/E9/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
